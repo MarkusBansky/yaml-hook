@@ -1,0 +1,14 @@
+{
+  "name": "yaml-hook",
+  "version": "0.0.1",
+  "description": "YAML schema processing CLI compatible with IDE plugins. Easy to use, no external dependencies.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "yaml", "cli", "processing", "schema"
+  ],
+  "author": "Markiian Benovskyi",
+  "license": "ISC"
+}
